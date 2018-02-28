@@ -38,9 +38,10 @@ def makeWebhookResult(req):
         #cost = {'C0001':'Cricket Basic', 'C0002':'Cricket Infinity', 'C0003':'Cricket Student ', 'C0004':'Cricket Family', 'C0005':'Cricket Basic', 'C0006':'Cricket Infinity', 'C0007':'Cricket Plus', 'C0008':'Cricket Plus', 'C0009':'Cricket Student', 'C0010':'Cricket Family', 'C0011':'Cricket Basic', 'C0012':'Cricket Plus', 'C0013':'Cricket Infinity', 'C0014':'Cricket Student'}
         #validity = {'C0001':'Validity upto 12-12-18', 'C0002':'Validity upto 1-6-18', 'C0003':'Validity upto 5-2-18', 'C0004':'Validity upto 6-6-18', 'C0005':'Validity upto 28-2-18', 'C0006':'Validity upto 5-5-18', 'C0007':'Vality upto 31-12-18', 'C0008':'Validity upto 12-10-18', 'C0009':'Validity upto 25-5-18', 'C0010':'Validity upto 22-8-18', 'C0011':'validity upto 22-4-18', 'C0012':'Validity upto 22-3-18', 'C0013':'Validity upto 28-6-18',  'C0014':'Validity upto 4-4-18'}
         #speech = "Hi " + str(name[zone]) +" (" + zone + " ) you are enrolled under " + str(cost[zone] + " with " + str(validity[zone]))
-        #print("Response:")
-        #print(speech)
+       
         speech = "The subject you selected is " + zone + "."
+        print("Response:")
+        print(speech)
         return {
                 "speech": speech,
                 "displayText": speech,
