@@ -41,10 +41,10 @@ def makeWebhookResult(req):
         result = req.get("result")
         parameters = result.get("parameters")
         zone = parameters.get("subject_name")
-        csv_file = csv.reader(open('mine.csv'), delimiter=",")
+        csv_file = csv.reader(open('books.csv'), delimiter=",")
         
         for row in csv_file:
-            if zone == row[0]:
+            if req.get("result").get("action") == "input-subject-name": && zone == row[0]:
                 speech = ("Book Id: " + row[0] + "\n Book Title: " + row[1] + "\n Authors: " + row[2] + "\n Publication: " + row[3] + "\n Rack Number: "+ row[4])
 
         
