@@ -41,7 +41,7 @@ def makeWebhookResult(req):
         result = req.get("result")
         parameters = result.get("parameters")
         zone = parameters.get("subject_name")
-        csv_file = csv.reader(open('books1.csv'), delimiter=",")
+        csv_file = csv.reader(open('mine.csv'), delimiter=",")
         
         for row in csv_file:
             if zone == row[0]:
