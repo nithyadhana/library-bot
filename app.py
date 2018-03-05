@@ -103,14 +103,14 @@ def makeWebhookResult(req):
                 UQ.question = sub_name
                 UQ.answer = pub_name
                 UQ.status = status
-                el = ("\n You are eligible to issue books")
+                print("\n You are eligible to issue books")
     
     
                 with open('issue1.csv', 'a') as Ques_Ans:
                     writer = csv.writer(Ques_Ans)
                     writer.writerow([UQ.user,UQ.question, UQ.answer,UQ.status])    
-                    fl = ("\nThe Book has been issued to your name!")
-        speech("\n " + el + "\n " + fl)
+                    print("\nThe Book has been issued to your name!")
+   
         
         
         print("Response:")
