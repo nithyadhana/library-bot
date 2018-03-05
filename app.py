@@ -110,8 +110,7 @@ def makeWebhookResult(req):
                     writer = csv.writer(Ques_Ans)
                     writer.writerow([UQ.user,UQ.question, UQ.answer,UQ.status])    
                     fl = ("\nThe Book has been issued to your name!")
-
-                speech("\n " + el + "\n " + fl)
+        speech("\n " + el + "\n " + fl)
         
         
         print("Response:")
