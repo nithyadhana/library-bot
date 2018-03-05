@@ -58,7 +58,7 @@ def makeWebhookResult(req):
         
         result = req.get("result")
         parameters = result.get("parameters")
-        zone = parameters.get("select-publication")
+        zone = parameters.get("select_publication")
     
         csv_file = csv.reader(open('books1.csv'), delimiter=",")
        
