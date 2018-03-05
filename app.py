@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 02 10:26:53 2018
-
-@author: nithya
-"""
-
 #!/usr/bin/env python
 
 import urllib
@@ -41,11 +34,11 @@ def makeWebhookResult(req):
         result = req.get("result")
         parameters = result.get("parameters")
         zone = parameters.get("subject_name")
-        csv_file = csv.reader(open('books1.csv'), delimiter=",")
+        csv_file = csv.reader(open('books.csv'), delimiter=",")
         
         for row in csv_file:
-            if req.get("result").get("action") == "input-subject-name": && zone == row[0]:
-                speech = ("Book Id: " + row[0] + "\n Book Title: " + row[1] + "\n Authors: " + row[2] + "\n Publication: " + row[3] + "\n Rack Number: "+ row[4])
+            if zone == row[1]:
+                speech = ("Book Id: " + row[0] + "\n Book Title: " + row[1] + "\n Authors: " + row[2] + "\n Publication: " + row[3] + "\n : "+ row[4])
 
         
         
@@ -56,7 +49,7 @@ def makeWebhookResult(req):
                 "displayText": speech,
                 #"data": {},
                 #"contextOut": [],
-                "source": "input-subject-name"
+                "source": "cust_plan"
                }
     
     elif req.get("result").get("action") == "Complaint_status.Complaint_status-custom":
