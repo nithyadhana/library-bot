@@ -41,7 +41,7 @@ def makeWebhookResult(req):
             if zone == row[1]:
                 speech = ("\n\nBook Id: " + row[0] + "\n Book Title: " + row[1] + "\n Authors: " + row[2] + "\n Publication: " + row[3] + "\n Rack Number:" + row[4])
         
-                print(speech)
+        print(speech)
         
         
         print("Response:")
@@ -66,7 +66,7 @@ def makeWebhookResult(req):
             if zone == row[3]:
                 speech = ("\n\nBook Id: " + row[0] + "\n Book Title: " + row[1] + "\n Authors: " + row[2] + "\n Publication: " + row[3] + "\n Rack Number:" + row[4])
         
-                print(speech)
+        print(speech)
         
         
         print("Response:")
