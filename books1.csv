@@ -1,101 +1,101 @@
-Book_ID,Book_Name,Author,Publication,Position,status,
-1,advanced computer architecture,m maheswari and ambeth,sree kamalamani publications,1,available,
-2,advanced computer architecutre,kai hwang,tata mc graw hill,2,available,
-3,advanced computer architecutre,g.elangovan,magnus publications,3,available,
-4,algorithms,sanjay das gupta,tata mc graw hill,2,available,
-5,artificial Intelligence,auxilliya,magnus,3,available,
-6,artificial intelligence,kavitha,technical publications,2,available,
-7,artificial intelligence,patrick henry winston,phi learning,1,available,
-8,artificial neural networks,neeta desh pandey,2,available,
-9,bio informatics,pierre valdi,pearson,1,unavailable,
-10,c#and dot net,kavitha,technical publications,2,available,
-11,c# and dot net framework,n rajganesh,anonymus.1,available,
-12,cloud to code,jessy liberty,east west press,3,avaialble,
-13,complier design,og kakde,magnus publications,1,unavailable,
-14,compilers,alfred v aho,wrox,wrox,1,available,
-15,computer algorithms,sara basee,oxford publications,2,available,
-16,computer architecture,behrooz,wrox,1,available,
-16,computer architecture,kanimozhi,technical publications,1,available,
-17,computer architecture,godse,technical publications,2,unavailable,
-18,computer graphics,saranya,lakshmi publications,2,available,
-19,computer graphics,ezhilarasi,ara publications,1,available,
-20,computer graphics,m selvakumar,technical publications,1,unavailable,
-21,computer networks and systems,robert azzi,tata mcgraw hill,2,available,
-22,computer networks,bagad,ar publications,1,available,
-23,computer networks,k murali babu,ars publications,2,available,
-24,computer networks,jayaprakash,lakshmi publications,1,available,
-25,computer networks,anand kumar,technical publications,2,available,
-26,computer networks,d kokila,vigas publications,3,available,
-28,computer networks and internets,douglas,magnus publications,1,available,
-29,computer organisation and architecture,anand kumar,vrb publishers,1,available,
-30,computer organisation and architecture,godse,vrb publishers,1,available,
-31,computer programming,e balagurusamy,global publishing house,2,available,
-32,computer programming,helda mercy,ug publishers,2,available,
-33,computer programming,jb dixit,gp publishers,1,available,
-34,computer programming,godse,mcgraw hill,3,available,
-35,computer programming,ramesh babu,vrb publishers,2,available,
-36,cryptography and network security,k senthilnathan,vikas publishing house,3,available,
-37,cryptography and network security,sathya priya,prentice hall,1,available,
-38,data mining,margaret h dunham,tata mcgraw hill,3,available,
-39,data mining,daniel t larose,rba publishers,1,available,
-40,data structures,s balakrishnan,sai publications,2,available,
-41,data structures,kavitha,sruthi publishers,1,available,
-42,data structures and algorithm,gav pai,anuradha,3,available,
-43,data warehousing and data mining,n selva rani,lakshmi publications,1,available,
-44,database management systems,kalamani,shree kalamani publications,1,available,
-45,database management systems,balakrishnan,sai publications,3,available,
-46,design and analysis of algorithms,hari mohan pandey,magnus publiations,2,available,
-47,design and analysis of algorithms,brindha,ars publications,3,available,
-48,design principles and system design,k helenprabha,sci tech publications,1,available,
-49digital communication,amitabha bhattacharya,university science press,3,available,
-50,digital electronics,ramalatha,mc graw hill,3,unavailable,
-51,digital signal processing,r l reka,anuradha,1,available,
-52,distributed database system,m tamar ozsu,ars publications,2,available,
-53,distributed database system,m tamar ozsu,charulatha publications,3,available,
-54,distributed systems,dhotre,technical publications,1,available,
-55,distributed systems,andrew s tanenbaum,prentice hall,2,unavailable,
-56,effective c++,meyers,tata mcgraw publications,1,available,
-57,electronics circuits,n suresh kumar,phi publication,2,available,
-58,electronic commerce,bharat bhasker,prentice hall,3,available,
-59,engineering drawing,kv natrajan,microsoft publications,2,available,
-60,frontier,matt neuberg,mc graw hill,2,available,
-61,genetic algorithms,pinaki mazumder,oxford,unavailable,
-62,human resource management,sivakumar,suchitra publication,2,available,
-63,information retrival,r dhaya,magnus publications,1,available,
-64,information systems,hussain,bpb publications,1,available,
-65,information technology,turban,magnus publications,2,available,
-66,internet programming,suresh,wp publishers,1,available,
-67,internet programming,s padmapriya,magnus publications,3,available,
-68,java server and servlets,rossbach,prentice hall,2,available,
-69,managenment information system,gerald v post,tata mcgraw hill,3,available,
-70,microprocessor and microcontroller,l balaji,anonymous,2,available,
-71,microprocessor and microcontroller,l gopinath,prentice hall,unavailable,
-72,mobile computing,k vinod babu,lakshmi publication,2,available,
-73,mobile computing,jeyasri,technical publication,1,available,
-74,modern operating system,tannebaum,phi learning,3,available,
-75,network security,bragg,tata mc graw hill,2,available,
-76,neural networks,sathish kumar,tata mc graw hill,3,available,
-77,object oriented programming,bharathi ashok,suchitra publication,2,available,
-78,object oriented programming,valliammai,charulatha publication,3,available,
-79,operating system,dhotre,technical publications,1,available,
-80,operating system,bharathi ashok,magnus publications,2,unavailable,
-81,operating system,garnell,shroff publishers,3,available,
-82,parallel computing,quimm,tata mc graw hill,2,available,
-83,pattern recognition,devi and murthy,2,available,
-84,principles of compiler design,sivakumar,3,available,
-85,principles of compiler design,puntambekar,1,unavailable,
-86,professional ethics,manikandan,shroff publishers,2,available,
-87,programming and data structures-1,universties press,3,available,
-88,programming and data structres-2
-89,real time systems,krishna,venkateshan,ars publications,2,available,
-90,relational database,aj page,galgotia publishers,1,available,
-91,service oriented architecture,padmapriya,magnus publications,3,available,
-92,servlets and jsp,bryan basham,scroff publications,1,available,
-93,snmp,stahllings,pearson,3,available,
-94,software engineering,puntambekar,technical publication,1,available,
-95,software engineering,udit agarwal,galgotia publication,2,available,
-96,software quality,chandramouli,ar publications,2,available,
-97,software systems,manoharan,anonymous,1,available,
-98,software testing,ruhin kouser,anonymous,3,available,
-99,theory of computation,puntambekar,ars publications,3,available,
-100,theory of computation,krishnakumari,technical publications,1,available,
+Book_ID,Book_Name,Author,Publication,Position,status
+1,advanced computer architecture,m maheswari and ambeth,sree kamalamani publications,1,available
+2,advanced computer architecutre,kai hwang,tata mc graw hill,2,available
+3,advanced computer architecutre,g.elangovan,magnus publications,3,available
+4,algorithms,sanjay das gupta,tata mc graw hill,2,available
+5,artificial Intelligence,auxilliya,magnus,3,available
+6,artificial intelligence,kavitha,technical publications,2,available
+7,artificial intelligence,patrick henry winston,phi learning,1,available
+8,artificial neural networks,neeta desh pandey,shroff publishers,1,available
+9,bio informatics,pierre valdi,pearson,1,unavailable
+10,c#and dot net,kavitha,technical publications,2,available
+11,c# and dot net framework,n rajganesh,anonymus.1,2,available
+12,cloud to code,jessy liberty,east west press,3,avaialble
+13,complier design,og kakde,magnus publications,1,unavailable
+14,compilers,alfred v aho,wrox,3,available
+15,computer algorithms,sara basee,oxford publications,2,available
+16,computer architecture,behrooz,wrox,1,available
+16,computer architecture,kanimozhi,technical publications,1,available
+17,computer architecture,godse,technical publications,2,unavailable
+18,computer graphics,saranya,lakshmi publications,2,available
+19,computer graphics,ezhilarasi,ara publications,1,available
+20,computer graphics,m selvakumar,technical publications,1,unavailable
+21,computer networks and systems,robert azzi,tata mcgraw hill,2,available
+22,computer networks,bagad,ar publications,1,available
+23,computer networks,k murali babu,ars publications,2,available
+24,computer networks,jayaprakash,lakshmi publications,1,available
+25,computer networks,anand kumar,technical publications,2,available
+26,computer networks,d kokila,vigas publications,3,available
+28,computer networks and internets,douglas,magnus publications,1,available
+29,computer organisation and architecture,anand kumar,vrb publishers,1,available
+30,computer organisation and architecture,godse,vrb publishers,1,available
+31,computer programming,e balagurusamy,global publishing house,2,available
+32,computer programming,helda mercy,ug publishers,2,available
+33,computer programming,jb dixit,gp publishers,1,available
+34,computer programming,godse,mcgraw hill,3,available
+35,computer programming,ramesh babu,vrb publishers,2,available
+36,cryptography and network security,k senthilnathan,vikas publishing house,3,available
+37,cryptography and network security,sathya priya,prentice hall,1,available
+38,data mining,margaret h dunham,tata mcgraw hill,3,available
+39,data mining,daniel t larose,rba publishers,1,available
+40,data structures,s balakrishnan,sai publications,2,available
+41,data structures,kavitha,sruthi publishers,1,available
+42,data structures and algorithm,gav pai,anuradha,3,available
+43,data warehousing and data mining,n selva rani,lakshmi publications,1,available
+44,database management systems,kalamani,shree kalamani publications,1,available
+45,database management systems,balakrishnan,sai publications,3,available
+46,design and analysis of algorithms,hari mohan pandey,magnus publiations,2,available
+47,design and analysis of algorithms,brindha,ars publications,3,available
+48,design principles and system design,k helenprabha,sci tech publications,1,available
+49digital communication,amitabha bhattacharya,university science press,shroff publishers,3,available
+50,digital electronics,ramalatha,mc graw hill,3,unavailable
+51,digital signal processing,r l reka,anuradha,1,available
+52,distributed database system,m tamar ozsu,ars publications,2,available
+53,distributed database system,m tamar ozsu,charulatha publications,3,available
+54,distributed systems,dhotre,technical publications,1,available
+55,distributed systems,andrew s tanenbaum,prentice hall,2,unavailable
+56,effective c++,meyers,tata mcgraw publications,1,available
+57,electronics circuits,n suresh kumar,phi publication,2,available
+58,electronic commerce,bharat bhasker,prentice hall,3,available
+59,engineering drawing,kv natrajan,microsoft publications,2,available
+60,frontier,matt neuberg,mc graw hill,2,available
+61,genetic algorithms,pinaki mazumder,oxford,3,available
+62,human resource management,sivakumar,suchitra publication,2,available
+63,information retrival,r dhaya,magnus publications,1,available
+64,information systems,hussain,bpb publications,1,available
+65,information technology,turban,magnus publications,2,available
+66,internet programming,suresh,wp publishers,1,available
+67,internet programming,s padmapriya,magnus publications,3,available
+68,java server and servlets,rossbach,prentice hall,2,available
+69,managenment information system,gerald v post,tata mcgraw hill,3,available
+70,microprocessor and microcontroller,l balaji,anonymous,2,available
+71,microprocessor and microcontroller,l gopinath,prentice hall,3,available
+72,mobile computing,k vinod babu,lakshmi publication,2,available
+73,mobile computing,jeyasri,technical publication,1,available
+74,modern operating system,tannebaum,phi learning,3,available
+75,network security,bragg,tata mc graw hill,2,available
+76,neural networks,sathish kumar,tata mc graw hill,3,available
+77,object oriented programming,bharathi ashok,suchitra publication,2,available
+78,object oriented programming,valliammai,charulatha publication,3,available
+79,operating system,dhotre,technical publications,1,available
+80,operating system,bharathi ashok,magnus publications,2,unavailable
+81,operating system,garnell,shroff publishers,3,available
+82,parallel computing,quimm,tata mc graw hill,2,available
+83,pattern recognition,devi and murthy,tata mc graw hill2,1,available
+84,principles of compiler design,sivakumar,tata mc graw hill3,1,available
+85,principles of compiler design,puntambekar,tata mc graw hill1,1,available
+86,professional ethics,manikandan,shroff publishers,2,available
+87,programming and data structures-1,universties press,shroff publishers,1,available
+88,programming and data structres-2,,shroff publishers,2,available
+89,real time systems,krishna,venkateshan,1,available
+90,relational database,aj page,galgotia publishers,1,available
+91,service oriented architecture,padmapriya,magnus publications,3,available
+92,servlets and jsp,bryan basham,scroff publications,1,available
+93,snmp,stahllings,pearson,3,available
+94,software engineering,puntambekar,technical publication,1,available
+95,software engineering,udit agarwal,galgotia publication,2,available
+96,software quality,chandramouli,ar publications,2,available
+97,software systems,manoharan,anonymous,1,available
+98,software testing,ruhin kouser,anonymous,3,available
+99,theory of computation,puntambekar,ars publications,3,available
+100,theory of computation,krishnakumari,technical publications,1,available
