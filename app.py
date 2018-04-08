@@ -54,7 +54,7 @@ def makeWebhookResult(req):
                 "source": "input-subject-name"
                }
     
-    elif req.get("result").get("action") == "input-publication":
+    elif req.get("result").get("action") == "input_publication":
         
         result = req.get("result")
         parameters = result.get("parameters")
@@ -76,9 +76,8 @@ def makeWebhookResult(req):
                 "displayText": speech,
                 #"data": {},
                 #"contextOut": [],
-                "source": "input-publication"
+                "source": "input_publication"
                }
-    
     else:
        return{}
 if __name__ == '__main__':
